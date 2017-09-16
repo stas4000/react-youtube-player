@@ -1,0 +1,49 @@
+.app-body {
+  height: 450px;
+  width: 1236px;
+  margin: 0 auto;
+  margin-top: 200px;
+}
+.playlist-body {
+  width: 450PX;
+  height: 450px;
+  float: left;
+  margin-right: 45px;
+  border: 1px #b3b3b3 solid;
+}
+.input-body {
+  width: 221px;
+  margin: 0 auto;
+  margin-top: 21px;
+}
+/*input button */
+.input:nth-child(2) {
+  margin-left: 12px;
+  background-color: #a9a9a9;
+  color: white;
+  border: none;
+  height: 22px;
+}
+.list-body {
+  width: 395px;
+  height: 346px;
+  margin: 0 auto;
+  margin-top: 32px;
+  border: 1px #b3b3b3 solid;
+}
+ul {
+  list-style-type: none;
+  padding: 3px;
+  margin: 0;
+  height:338px;
+  overflow: auto;
+}
+li {
+  font-size: 14px;
+  text-align: center;
+  line-height: 30px;
+  background: #72baea;
+  color: white;
+  height: 31px;
+  border-bottom: 3px #ffffff solid;
+}
